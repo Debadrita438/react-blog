@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "That rotten curly head didn't pay us again!",
+      "body": "Gin-san being stupid, gamble all of our hard earned money into pachinko again! I have to stop Otose-san from murdering him. He should be grateful, that bastard!",
+      "author": "Shimura Shinpachi",
+      "id": 1
+    },
+    {
+      "title": "Stupid Gin-chan",
+      "body": "He drained all of our money in gambling. I went out in anger because he wasn't giving any food to the fair maiden. But when I came back next day, I saw icecreams in the refrigerator, his hand was plastered, laying down like an useless old man. That stupid Gin-chan...",
+      "author": "Kabukichou's Queen Kagura",
+      "id": 2
+    },
+    {
+      "title": "I need sugar, damn it!",
+      "body": "It's valentine's day and thanks to the stupid author, I am not getting any chocolate! Come on, poor Gin-san needs his daily dose of sugar, I don't need any love. Please someone, give me some CHOCOLATE!",
+      "author": "Sakata Gintoki",
+      "id": 3
+    },
+    {
+      "title": "Forgive me...",
+      "body": "I know you're worried about me Otae, but I can't continue to sit on my ass and my kids get killed by that sick bastard. I will have to go. Thanks a bunch.",
+      "author": "Sakata Gintoki",
+      "id": 4
+    },
+    {
+      "title": "Lost again.....",
+      "body": "I lost again in pachinko parlor.... Ahh, if only I had stopped when I won for the first time, I still would've left money for a chocolate parfait! If only.....",
+      "author": "Sakata Gintoki",
+      "id": 10
+    }
+  ]
+}
